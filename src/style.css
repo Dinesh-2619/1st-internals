@@ -1,0 +1,31 @@
+.register{
+    border: 2px black solid;
+    margin-top: 100px;
+    background-color: rgb(245, 245, 199);
+    margin-left: 550px;
+    margin-right: 550px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-radius: 5px;
+    box-shadow: 50px;
+    margin-bottom: 200px;
+    
+}
+.label{
+    font-size: large;
+    padding-right: 40px;
+
+}
+.label2{
+    font-size: large;
+    padding-right: 10px;
+}
+.header{
+    font-weight:bolder;
+    padding-top: 50px;
+}
+
+button{
+    font-size: large;
+}
+
